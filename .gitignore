@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# manim 渲染产物（成片归档在 ~/Library/manim-dev/output，不入库）
+algorithm-visualization/**/media/
+
+# C++ 编译产物（OI 下只提交源码和数据）
+/OI/*
+!/OI/*.cpp
+!/OI/*.h
+!/OI/*.hpp
+!/OI/*.md
+!/OI/*.in
+!/OI/*.out
+!/OI/*.txt
