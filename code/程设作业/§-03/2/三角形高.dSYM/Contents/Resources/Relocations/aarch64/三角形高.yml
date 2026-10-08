@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/gcintcinn/Githubrepo/Coding/code/程设作业/§-03/解方程/三角形高"
+relocations:
+  - { offset: 0x19, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000005B8, symSize: 0x154 }
+  - { offset: 0x102C, size: 0x8, addend: 0x0, symName: __ZSt4swapIdQaaaantsrSt15__is_tuple_likeIT_E5value23is_move_constructible_vIS1_E20is_move_assignable_vIS1_EEvRS1_S3_, symObjAddr: 0x154, symBinAddr: 0x10000070C, symSize: 0x54 }
+  - { offset: 0x1103, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x1000005B8, symSize: 0x154 }
+...
