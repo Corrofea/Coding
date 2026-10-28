@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/gcintcinn/Githubrepo/Coding/code/程设作业/§-04/03-阿尔法乘积/阿尔法乘积"
+relocations:
+  - { offset: 0x19, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000650, symSize: 0x120 }
+  - { offset: 0x5EB, size: 0x8, addend: 0x0, symName: _num, symObjAddr: 0x1318, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x601, size: 0x8, addend: 0x0, symName: _n, symObjAddr: 0x13E0, symBinAddr: 0x1000080C8, symSize: 0x0 }
+  - { offset: 0x615, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000650, symSize: 0x120 }
+...

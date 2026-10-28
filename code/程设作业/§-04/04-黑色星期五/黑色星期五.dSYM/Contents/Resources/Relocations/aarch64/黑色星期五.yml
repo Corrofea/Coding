@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/gcintcinn/Githubrepo/Coding/code/程设作业/§-04/04-黑色星期五/黑色星期五"
+relocations:
+  - { offset: 0x7481, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x399C9, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x76AF, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I________________.cpp, symObjAddr: 0x314, symBinAddr: 0x1000009C0, symSize: 0x14 }
+  - { offset: 0x76C6, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x2D8, symBinAddr: 0x100000984, symSize: 0x3C }
+  - { offset: 0x76DD, size: 0x8, addend: 0x0, symName: __ZSt7setfillIcESt8_SetfillIT_ES1_, symObjAddr: 0x280, symBinAddr: 0x100000970, symSize: 0x14 }
+  - { offset: 0x7714, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x80, symBinAddr: 0x100000770, symSize: 0x200 }
+  - { offset: 0x77E3, size: 0x8, addend: 0x0, symName: __Z6isLeapi, symObjAddr: 0x14, symBinAddr: 0x100000704, symSize: 0x6C }
+  - { offset: 0x780A, size: 0x8, addend: 0x0, symName: __ZSt4setwi, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x14 }
+...

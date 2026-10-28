@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/gcintcinn/Githubrepo/Coding/code/程设作业/§-04/02/数列问题"
+relocations:
+  - { offset: 0x19, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000650, symSize: 0x120 }
+  - { offset: 0x5DF, size: 0x8, addend: 0x0, symName: _n, symObjAddr: 0x12BC, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x601, size: 0x8, addend: 0x0, symName: _num, symObjAddr: 0x12C0, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offset: 0x615, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000650, symSize: 0x120 }
+...

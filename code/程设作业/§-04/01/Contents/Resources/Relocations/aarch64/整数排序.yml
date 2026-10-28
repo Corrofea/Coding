@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/gcintcinn/Githubrepo/Coding/code/程设作业/§-04/整数排序"
+relocations:
+  - { offset: 0x19, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000650, symSize: 0x198 }
+  - { offset: 0xD8A, size: 0x8, addend: 0x0, symName: _n, symObjAddr: 0x555C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0xDAD, size: 0x8, addend: 0x0, symName: _num, symObjAddr: 0x5560, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offset: 0xDC0, size: 0x8, addend: 0x0, symName: __ZSt4swapIiQaaaantsrSt15__is_tuple_likeIT_E5value23is_move_constructible_vIS1_E20is_move_assignable_vIS1_EEvRS1_S3_, symObjAddr: 0x198, symBinAddr: 0x1000007E8, symSize: 0x54 }
+  - { offset: 0xE97, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000650, symSize: 0x198 }
+...
